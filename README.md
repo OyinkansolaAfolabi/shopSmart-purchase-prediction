@@ -1,9 +1,11 @@
 ShopSmart: Predicting Online Purchase Intention
 
 Project Overview
+
 Predicting online shoppers purchase intention using early-session browsing behavior for ShopSmart.
 
 Key Results
+
 Best Model: Logistic Regression
 
 F1-Score: 0.369
